@@ -1,0 +1,8 @@
+.header-content {
+  padding: 0 var(--gap);
+  height: 100vh;
+  display: flex;
+  flex-flow: wrap column;
+  justify-content: center;
+  align-items: center;
+}
