@@ -130,7 +130,14 @@ i {
   }
 
   .main-content h1 {
-    font-size: 5.5rem;
+    font-size: 4.5rem;
+  }
+
+  .imgs {
+    display: flex;
+    width: 100%;
+    flex-flow: nowrap row;
+    justify-content: space-between;
   }
 }
 
